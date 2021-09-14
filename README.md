@@ -1,5 +1,5 @@
 <h1 align="center">
-<b> ✞︎tß Lêɠêɳ̃dẞø†</b>
+<b> Joker user bot</b>
 </h1>
 
 [![jokeruserbot](https://telegra.ph/file/78d7efcffc5bf48b0dd9f.jpg)](https://github.com/frankboyop/jokeruserbot)
